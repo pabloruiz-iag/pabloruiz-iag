@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I´m Pablo.
+
+Data Engineer @ Operations Team in IAG
+
 <!--
 **pabloruiz-iag/pabloruiz-iag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
