@@ -2,7 +2,7 @@
 
 I´m Pablo.
 
-Data Engineer @ Operations Team in IAG
+Data Engineer @ IAG Common Data Layer
 
 <!--
 **pabloruiz-iag/pabloruiz-iag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
